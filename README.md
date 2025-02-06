@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Laravel, C# & node.js**
 
-- 👨‍💻 All of my projects are available at [portfolio link coming soon...](portfolio link coming soon...)
+- 👨‍💻 All of my projects are available at [portfolio link coming soon...]
 
 - 📫 How to reach me **julialyngfelt@hotmail.com**
 
