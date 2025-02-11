@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Julia Lyngfelt</h1>
 <h3 align="center">A curious and driven fullstack developer from the west coast of Sweden</h3>
 
