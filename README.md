@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently studying **web development on Yrgo**
 
-- 🌱 I’m currently learning **Laravel, C# & node.js**
+- 🌱 I’m currently learning **Laravel, C# & React.js**
 
 - 👨‍💻 All of my projects are available at https://julialyngfelt.se
 
