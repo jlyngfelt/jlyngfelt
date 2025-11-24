@@ -1,12 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Julia Lyngfelt</h1>
-<h3 align="center">A curious and driven fullstack developer from the west coast of Sweden</h3>
+<h3 align="center">A curious and driven developer student from the west coast of Sweden</h3>
 
 - 🔭 I'm currently studying **web development on Yrgo**
 
 - 🌱 I’m currently learning **Laravel, C# & React.js**
-
-- 👨‍💻 All of my projects are available at https://julialyngfelt.se
 
 - 📫 How to reach me **julialyngfelt@hotmail.com**
 
