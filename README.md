@@ -1,15 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Julia Lyngfelt</h1>
-<h3 align="center">A curious and driven developer student from the west coast of Sweden</h3>
-
-- 🔭 I'm currently studying **web development on Yrgo** and doing my internship at Weapp
-
-- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **julialyngfelt@hotmail.com**
-
-- ⚡ And Also, **I'm a delight to have in an office**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
